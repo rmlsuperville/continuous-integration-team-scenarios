@@ -7,5 +7,5 @@
 4. Open a pull request(test). Discuss the changes, add more commits  
   as discussion continues. Make tests pass on the feature branch.
 5. Merge/rebase commits from master. Make tests pass on the merge result.  
-6. Deploy from the feature branch with a sneaky bug to production.
+6. Deploy from the feature branch to production.
 7. If everything is good in production for some period of time, merge changes to master.
